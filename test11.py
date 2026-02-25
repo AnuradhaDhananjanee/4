@@ -1,2 +1,2 @@
 #A PRINT
-print("good bye *")
+print("good frend *")
